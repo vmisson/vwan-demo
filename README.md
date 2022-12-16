@@ -1,2 +1,3 @@
-# vwan-demo
-Azure vWAN demo
+# POC vWAN platform
+
+![image](images/vWAN-demo.png)

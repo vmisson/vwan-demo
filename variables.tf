@@ -1,10 +1,9 @@
 variable "vwan_location" {
   type    = string
-  default = "Germany West Central"
+  default = "West Europe"
 }
 
 variable "resource_group_name" {
   type    = string
-  default = "vWAN-Central-Infra"
+  default = "vWAN"
 }
-

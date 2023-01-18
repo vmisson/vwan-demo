@@ -43,7 +43,7 @@ variable "firewall_vm_name" {
 }
 
 variable "allow_inbound_mgmt_ips" {
-  default = ["2.3.186.236"]
+  default = ["1.1.1.1", "2.2.2.2"]
   type    = list(string)
 
   validation {
